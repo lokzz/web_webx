@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url("RobotoMono-Regular.ttf");
+}
+
+div {
+    font-family: 'Roboto Mono';
+    margin: 5px;
+}
+
+p {
+    font-family: 'Roboto Mono';
+    font-size: 20px;
+}
+
+first {
+    color:lime;
+    font-size: 20px;
+}
